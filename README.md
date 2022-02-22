@@ -1,2 +1,2 @@
 # prueba
-Linux es una vasura y no sirbe para nada
+Windows es una basura y no sirve para nada
